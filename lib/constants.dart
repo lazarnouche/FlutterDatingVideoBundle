@@ -21,7 +21,7 @@ const CALL_DATA = 'callData';
 const VOICE = 'voice';
 const VIDEO = 'video';
 const SERVER_KEY =
-    "AAAAeliTfEs:APA91bGve5fyExjSiUCB0oI09Br1yGUSb0tPHelAk7L0FUytHWGOMlBPexJubTwSjjJTaIlK7oto3jDevoj9c5Q4Qalk6QEtQ9Y3tYfTxHD7OrmPZuVJjVGGciPBJXThG9QHCZQqx9Id";
+    "AAAAGq9f4VM:APA91bEFDaBrIC85xdfbW66yLpf6MDKYALE2iFVAbAFOkchW5QbO7Y3xlkjf6LUSzTJHhtDCGBZrcsce-jmJx0Rkzy2jFJxfyx89i3ZPHoNJYK2os2Q2AH_rxj3aoG2aTcx0vPvqFAiY";
 
 const DEFAULT_AVATAR_URL =
     'https://www.iosapptemplates.com/wp-content/uploads/2019/06/empty-avatar.jpg';
